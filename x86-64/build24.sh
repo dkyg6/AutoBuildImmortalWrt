@@ -68,6 +68,7 @@ PACKAGES="$PACKAGES python3-yaml"
 PACKAGES="$PACKAGES python3-logging"
 PACKAGES="$PACKAGES python3-ctypes"
 PACKAGES="$PACKAGES luci-i18n-mwan3-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-pppoe-server-zh-cn"
 #######
 PACKAGES="$PACKAGES curl"
 PACKAGES="$PACKAGES luci-i18n-diskman-zh-cn"
